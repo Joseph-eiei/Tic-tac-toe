@@ -1,2 +1,2 @@
 # Tic-tac-toe
-Tic-tac-toe in C++
+Basic Tic-tac-toe in C++ using 2D array
